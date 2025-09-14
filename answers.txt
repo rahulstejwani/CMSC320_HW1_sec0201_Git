@@ -10,4 +10,8 @@ Answer: Healthcare. We analyze COVID data to predict the next outbreak.
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging combines 2 conflicting branches into 1 before merging into main.
-Rebasing takes 1 branch and applies it to the tip of the other to create a linear history 
+Rebasing takes 1 branch and applies it to the tip of the other to create a linear history
+
+Q4: What are you looking forward to this semester?
+
+Answer: Finishing my CS degree 
